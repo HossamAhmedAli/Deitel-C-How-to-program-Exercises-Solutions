@@ -1,0 +1,10 @@
+fabs(double) function return the absolute positive of a given input number
+floor(double) returns the integer number of a given float number 
+ceil(double) returns the nearest integer number of a given float numbera) 7.5
+b) 7
+c) 0.0
+d) 0
+e) 6.4
+f) -6.0
+g)-14.00
+
